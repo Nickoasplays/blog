@@ -1,0 +1,18 @@
+Limpeza Windows
+	O seu Windows 11 tá travando? Precisa de limpeza? Alguma coisa assim? Então! Eu fiz um programa bem simples que faz tudo isso pra você! Até tira aquele Copilot irritante pra caramba! Antes de você baixar, recomendo tu terminar de ler, por que, o programa pode fazer algo que tu não tem consentimento!
+
+Limpeza de cache
+	Ele limpa TODO o cache, isso pode incluir trabalhos NÃO SALVOS, se você trabalha com Word, Excel, PowerPoint e etc, recomendo tu salvar seu trabalho antes!
+	
+Tchau Copilot! (REQUER ADIMINISTRADOR!)
+	Ele REMOVE o Copilot usando registro do windows, "Mas o que raios é o copilot?" Você já deve ter visto um icone colorido na sua barra de tarefas, que você sem querer, acabava clicando e abria um ChatGPT da Microsoft.
+
+Verificar vírus. (REQUER ADIMINISTRADOR)
+	FIQUE de boa! Não irá baixar NADA! Ele vai rodar o anti-vírus do Windows, e se você usa: Avast, McAfee ou qualquer anti-vírus que não é do Windows, saiba que tu tá perdendo desempenho!!!
+
+Corrigir Sistema. (REQUER ADMINISTRADOR)
+	Ele vai rodar um comando no CMD que vai corrigir o seu sistema, SAIBA, que ele irá reiniciar seu PC para aplicar tudo.
+	
+Resumindo
+	Esse sistema/aplicativo vai manter seu PC funcionando bem, otimizado e FORTE!
+	Agora pode baixar!
